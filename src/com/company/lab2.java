@@ -1,3 +1,5 @@
+package com.company;
+
 public class lab2 {
     public static void main(String[] args) {
         System.out.println(sum(3,4));
@@ -42,7 +44,7 @@ public class lab2 {
 
 
     }
-    static int MyName(int MyName,){
+    static int MyName(int MyName){
         int result= MyName;
         return result;
 
